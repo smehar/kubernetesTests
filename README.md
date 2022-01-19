@@ -9,4 +9,4 @@ helm version
 
 # Déploiement WordPress
 helm repo add bitnami https://charts.bitnami.com/bitnami
-helm install wordpress bitnami/wordpress -f https://smehar/kubernetesTest/hlmTp5/value.yml
+helm install wordpress bitnami/wordpress -f https:/github.com/smehar/kubernetesTests/hlmTp5/value.yml
